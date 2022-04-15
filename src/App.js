@@ -15,8 +15,7 @@ import { Col, Row, Container } from 'reactstrap';
 
 function App() {
 
-  let a={ id:"1", name:"meryem", surname:"yildiz", age:"24", mail:"meryemyld"}
-  let b={ id:"2", name:"emre", surname:"tek", age:"28", mail:"emretek"}
+
 
   return (
     <div className="App">
